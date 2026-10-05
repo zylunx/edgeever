@@ -32,11 +32,3 @@ You can scan the QR code via WeChat Pay or Alipay to sponsor the project directl
 
 > 💡 **Tip:**
 > When sponsoring, you are welcome to include your GitHub username or a personal message in the payment note!
-
----
-
-## Sponsorship & Partnerships
-
-We welcome infrastructure providers, cloud services, developer tools, or AI platforms to support EdgeEver through developer credits, infrastructure sponsorship, or community partnerships.
-
-- **Contact Email**: [yingwaizhiying@gmail.com](mailto:yingwaizhiying@gmail.com)
